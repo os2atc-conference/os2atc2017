@@ -39,4 +39,6 @@
  - 分布式存储  ??（清华）
 
 ### session : OS kernel（主持人）
- -   ??(linaro)
+ - ??(linaro)
+ - auto update on out of tree kernel module ??（清华）
+ - analysis rt-preempt ??(清华/北理工)
